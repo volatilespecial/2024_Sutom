@@ -7,8 +7,8 @@ Sutom est un jeu de mots innovant qui combine des éléments de stratégie, de v
 
 | Liens                                                                                           | Desc.                                          |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------|
-| [Documentations](https://code.up8.edu/aanpukkody/sutom_groupe2/-/tree/main/Docs?ref_type=heads) | Cahier des charges, conceptions, diagrammes... |
-| [Git repository](https://code.up8.edu/aanpukkody/sutom_groupe2)                                 | Le lien vers le projet sur Git                 |
+| [Documentations](https://github.com/volatilespecial/2024_Sutom/tree/main/Docs)                  | Cahier des charges, conceptions, diagrammes... |
+| [Git repository](https://github.com/volatilespecial/2024_Sutom/)                                | Le lien vers le projet sur Git                 |
 
 ## Utilisation
 ⚠️ **Avant de commencer, il est important de s'assurer que la bibliothèque art est installée.**
