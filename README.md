@@ -75,9 +75,4 @@ Si vous voulez utiliser notre projet, merci de bien vouloir citer les informatio
 }
 ```
 
-## Autres projets
-
-Pour le cours d'OIC, nous avons aussi créé un projet qui permet de calculer les notes de plusieurs étudiants, soit avec un fichier, soit directement dans le terminal.
-- [Projet lecture et calcul de notes](https://code.up8.edu/aanpukkody/code-lecture-et-calcul-de-notes-oic-groupe_3)
-
 
